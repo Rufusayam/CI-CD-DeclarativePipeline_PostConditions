@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-               git 'https://github.com/intelliqittrainings/maven.git' 
+               git 'https://github.com/Rufusayam/CI-CD-DeclarativePipeline_PostConditions.git' 
             }
         }
         stage('Continuous Build')
